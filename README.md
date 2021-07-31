@@ -1,1 +1,1 @@
-# School-Management-system
+[LINK] https://niikhhilll.github.io/School/
